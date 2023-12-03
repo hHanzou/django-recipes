@@ -57,5 +57,6 @@
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
   },
-  "python.formatting.provider": "none"
+  "python.formatting.provider": "none",
+  "window.zoomLevel": 1
 }
